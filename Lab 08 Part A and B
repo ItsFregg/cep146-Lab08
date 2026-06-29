@@ -1,0 +1,137 @@
+Part A
+
+Card 1
+
+Food: Great       
+Service: Poor
+Price: Cheap
+
+We have 0 tokens on Food, 0 on Price, 0 on Service — let's guess DISLIKE
+
+Customer Opinion: LIKE
+
+Food 2 tokens, Price 2, Service 0
+
+Card 2
+
+Food: Bad
+Service: Great
+Price: Expensive
+
+We have 2 tokens on Food, 2 on Price, none on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Card 3
+
+Food: Good
+Service: Okay
+Price: Moderate
+
+We have 2 tokens on Food, 2 on Price, none on Service — let's guess LIKE
+
+Customer Opinion: LIKE
+
+Card 4
+
+Food: Poor
+Service: Poor
+Price: Cheap
+
+We have 2 tokens on Food, 2 on Price, none on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Card 5
+
+Food: Excellent
+Service: Excellent
+Price: Expensive
+
+We have 2 tokens on Food, 2 on Price, none on Service — let's guess DISLIKE
+
+Customer Opinion: LIKE
+
+Food 2 tokens, Price 2, Service 1
+
+Card 6
+
+Food: Okay
+Service: Bad
+Price: Moderate
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Card 7
+
+Food: Great
+Service: Okay
+Price: Cheap
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess LIKE
+
+Customer Opinion: LIKE
+
+Card 8
+
+Food: Poor
+Service: Excellent
+Price: Expensive
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Card 9
+
+Food: Excellent
+Service: Poor
+Price: Moderate
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess LIKE
+
+Customer Opinion: LIKE
+
+Card 10
+
+Food: Okay
+Service: Okay
+Price: Expensive
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Part B
+
+Card 11
+
+Food: Good
+Service: Excellent
+Price: Cheap
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess LIKE 
+
+Customer Opinion: LIKE
+
+Card 12
+Food: Bad
+Service: Bad
+Price: Expensive
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess DISLIKE
+
+Customer Opinion: DISLIKE
+
+Card 13
+
+Food: Excellent
+Service: Great
+Price: Moderate
+
+We have 2 tokens on Food, 2 on Price, 1 on Service — let's guess LIKE 
+
+Customer Opinion: LIKE
+
